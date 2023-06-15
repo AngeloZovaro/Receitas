@@ -1,0 +1,46 @@
+.teste {
+    text-align: center;
+}
+.teste2{
+    text-align: center;
+    margin-top: 20px;
+}
+.corfundo {
+    background-color: rgb(219, 246, 246);
+}
+.botoes {
+    background-color: rgb(74, 80, 84);
+    box-shadow: 5px 5px 5px 3px;
+    padding: 10px;
+}
+#inicial {
+    font-family: fantasy;
+}
+#cursive {
+    font-family: cursive;
+}
+.ordembrownie {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(255, 255, 255);
+    height: auto;
+    width: auto;
+    padding: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px;
+    box-shadow: rgb(25, 49, 75) 0px 20px 30px -10px;
+}
+.Livro {
+    margin: 20px;
+    
+}
+.botaoprimeiro {
+    margin-top: 20px;
+}
+.baixo {
+    text-align: center;
+    margin-top: 20px;
+}
